@@ -1,0 +1,4 @@
+# Cubesat
+device_tree=bcm2710-rpi-cm3.dtb
+dtoverlay=pi3-disable-bt
+dtoverlay=dt-blob
